@@ -1,0 +1,9 @@
+C:\Users\DandD\Desktop\Ekz-master\Ekz-master\Ekzamen\Ekzamen\obj\Debug\Ekz.Form1.resources
+C:\Users\DandD\Desktop\Ekz-master\Ekz-master\Ekzamen\Ekzamen\obj\Debug\Ekzamen.Properties.Resources.resources
+C:\Users\DandD\Desktop\Ekz-master\Ekz-master\Ekzamen\Ekzamen\obj\Debug\Ekz.csproj.GenerateResource.Cache
+C:\Users\DandD\Desktop\Ekz-master\Ekz-master\Ekzamen\Ekzamen\obj\Debug\Ekz.csproj.CoreCompileInputs.cache
+C:\Users\DandD\Desktop\Ekz-master\Ekz-master\Ekzamen\Ekzamen\bin\Debug\Ekzamen.exe.config
+C:\Users\DandD\Desktop\Ekz-master\Ekz-master\Ekzamen\Ekzamen\bin\Debug\Ekzamen.exe
+C:\Users\DandD\Desktop\Ekz-master\Ekz-master\Ekzamen\Ekzamen\bin\Debug\Ekzamen.pdb
+C:\Users\DandD\Desktop\Ekz-master\Ekz-master\Ekzamen\Ekzamen\obj\Debug\Ekzamen.exe
+C:\Users\DandD\Desktop\Ekz-master\Ekz-master\Ekzamen\Ekzamen\obj\Debug\Ekzamen.pdb
